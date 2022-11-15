@@ -1,7 +1,7 @@
 ##URL Pour tester dans le navigateur:
 (avant toutes chose)
 >créer une DB vide avec mysql
->mettre à jour le fichier application.properties (cf quête Spring JPA hibernate)
+> et mettre à jour le fichier application.properties (cf quête Spring JPA hibernate)
 
 
 #Read all (tout les wilders)
